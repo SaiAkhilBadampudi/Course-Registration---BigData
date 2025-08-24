@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a final exam for IST 469/769, designed to test distributed data processing and analytics skills. The goal is to analyze course registration and curricular data from the iSchool's student enrollment system. The project focuses on deriving meaningful insights and relationships within the data, particularly for the **Applied Data Science (ADS)** and **Information Systems (IS)** programs.
+ The goal is to analyze course registration and curricular data from the iSchool's student enrollment system. The project focuses on deriving meaningful insights and relationships within the data, particularly for the **Applied Data Science (ADS)** and **Information Systems (IS)** programs.
 
 The project requires a multi-faceted approach, utilizing various distributed technologies to prepare, store, and analyze data for different purposes, including both structured and graph-based analysis.
 
